@@ -1,0 +1,44 @@
+Date,Day of the Week,Amount,Description,Category ,Method of Payment,Need/Want/Saving
+8/23,Friday,43.69,Gas,Travel,Debit,Need
+8/23,Friday,35.01,Lunch,Food,Debit,Need
+8/23,Friday,9.80,Smoothie,Food,Debit,Want
+8/23,Friday,85.77,Dinner,Food,Debit,Need
+8/24,Saturday,7.10,Coffee,Food,Debit,Want
+8/24,Saturday,55.15,Lunch,Food,Debit,Need
+8/24,Saturday,6.00,Toll,Travel,Debit,Need
+8/24,Saturday,61.00,Manicure,Entertainment and Recreation,Debit,Want
+8/24,Saturday,300.00,Credit Card Payment,Bills,Debit,Need
+8/25,Sunday,250.30,Brunch,Food,Debit,Need
+8/25,Sunday,65.70,Dessert,Food,Cash,Want
+8/25,Sunday,710.45,iPad,Entertainment and Recreation,Credit,Want
+8/25,Sunday,45.00,Cake,Food,Cash,Want
+8/26,Monday,500.00,Credit Card Payment,Bills,Debit,Need
+8/26,Monday,66.87,Groceries,Food,Debit,Need
+8/27,Tuesday,101.50,Clothes,Entertainment and Recreation,Credit,Want
+8/28,Wednesday,88.00,Oil Change,Travel,Debit,Need
+8/28,Wednesday,415.35,Airplane Ticket,Travel,Debit,Want
+8/28,Wednesday,29.00,Gym Membership,Bills,Debit,Want
+8/28,Wednesday,6.00,Boba,Food,Debit,Want
+8/29,Thursday,10.00,Optometrist copay,Bills,Debit,Need
+8/29,Thursday,13.45,Lunch,Food,Debit,Need
+8/29,Thursday,75.45,Dinner,Food,Debit,Need
+8/29,Thursday,28.45,Ice Cream,Food,Debit,Want
+8/30,Friday,91.05,Target,Entertainment and Recreation,Debit,Need
+8/30,Friday,26.30,Walgreens,Entertainment and Recreation,Debit,Need
+8/30,Friday,15.01,Cost Plus,Entertainment and Recreation,Debit,Want
+8/30,Friday,225.00,Dinner,Food,Debit,Need
+8/30,Friday,9.00,Ice Cream,Food,Debit,Want
+8/31,Saturday,73.00,Subscription,Entertainment and Recreation,Debit,Want
+8/31,Saturday,54.22,Groceries,Food,Debit,Need
+9/1,Sunday,90.00,Lashes,Entertainment and Recreation,Debit,Want
+9/1,Sunday,21.00,Boba,Food,Debit,Want
+9/1,Sunday,12.50,Pastries,Food,Debit,Want
+9/1,Sunday,1800.00,Rent,Housing,Debit,Need
+9/1,Sunday,145.00,Electricity,Bills,Debit,Need
+9/1,Sunday,2.99,Apple Subscription,Bills,Debit,Want
+9/2,Monday,56.11,Amazon,Entertainment and Recreation,Credit,Want
+9/2,Monday,6.50,Coffee,Food,Cash,Want
+9/3,Tuesday,25.00,Eyebrow Wax,Entertainment and Recreation,Debit,Want
+9/3,Tuesday,91.21,Amazon,Entertainment and Recreation,Debit,Want
+9/3,Tuesday,11.00,Dinner,Food,Debit,Need
+9/3,Tuesday,54.93,Pet Supplies,Entertainment and Recreation,Debit,Need
